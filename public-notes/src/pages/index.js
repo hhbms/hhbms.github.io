@@ -14,6 +14,15 @@ const IndexPage = () => (
           <Link to="/microbiology">Microbiology and aseptic technique</Link>
         </li>
       </ul>
+
+      <h2>Protocols</h2>
+      <ul>
+        <li>
+          <Link to="/protocols#preparing-glycerol-stocks-of-bacteria">
+            Preparing glycerol stocks of bacteria
+          </Link>
+        </li>
+      </ul>
     </div>
   </div>
 )
