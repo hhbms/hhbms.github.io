@@ -1,3 +1,6 @@
 # hhbms.github.io
 
-_online resources for the MIT Huang-Hobbs BioMakerspace._
+- community projects
+    - climate proteins
+        - plastic degrading enzymes
+        - carbon capture
